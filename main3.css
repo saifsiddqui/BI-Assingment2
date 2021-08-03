@@ -1,0 +1,64 @@
+.main4{
+    height:170px;
+    text-align: center;
+}
+.main4 > h2{
+    display: inline-block;
+    margin-top: 30px;
+}
+.main4 > p{
+   width: 50%;
+   margin: 30px auto;
+}
+
+.main5{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    display: flex;
+    color: white;
+}
+.part{
+    width: 50%;
+    height: 100%;
+    background-color: skyblue
+}
+.part > h3{
+    display: inline-block;
+    margin-top: 70px;
+}
+.part2{
+    width: 50%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.801);
+}
+.part2 > h3{
+    display: inline-block;
+    margin-top: 70px;
+}
+.line{
+    display: inline-block;
+    margin: 35px 70px;
+}
+
+.main6{
+    color: white;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main6 > p{
+    margin: 0 270px;
+}
+span{
+    color: blue;
+}
+.footer{
+    width: 100%;
+    height: 150px;
+    background-color: rgba(0, 0, 0, 0.801);
+}
+
